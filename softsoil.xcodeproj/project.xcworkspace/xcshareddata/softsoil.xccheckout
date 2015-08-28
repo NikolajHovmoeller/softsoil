@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B1FBC8B-97B3-4AC3-80AC-DF80272AFDCD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>softsoil</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EF824417C12C6156C9C13E833DE800E2E000B3B9</key>
+		<string>https://github.com/NikolajHovmoeller/softsoil.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>softsoil.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EF824417C12C6156C9C13E833DE800E2E000B3B9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NikolajHovmoeller/softsoil.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EF824417C12C6156C9C13E833DE800E2E000B3B9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EF824417C12C6156C9C13E833DE800E2E000B3B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>softsoil</string>
+		</dict>
+	</array>
+</dict>
+</plist>

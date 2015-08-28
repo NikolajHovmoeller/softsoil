@@ -37,7 +37,7 @@ using namespace irr::gui;
 
 int main(int argc, char* argv[]) {
     SetChronoDataPath(std::string("/Users/nikolaj/Documents/Skole/Speciale/hello_chrono_build/Debug/data/"));
-    std::cout << "Datapath: " << GetChronoDataPath() << std::endl;
+    std::cout << "Datapath: " << GetChronoDataPath() << std::endl; //kjhkj
     
     // Create a ChronoENGINE physical system
     ChSystem mphysicalSystem;
